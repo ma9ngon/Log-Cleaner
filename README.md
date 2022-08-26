@@ -4,3 +4,9 @@
 * Tắt Windows Defender (Chạy DefenderControl.exe sau đó nhấn Disable)
 * Tải xuống DirectX End-User Runtime & Visual C++ Redistributable và cài đặt
 * Để chế độ cửa sổ Không Viền(trong game) Và chế độ DX9 để có trải nghiệm tốt nhất
+------------
+   * Additional info:
+        * Official website: https://ma9ngon.blogspot.com/
+        * Github: https://github.com/ma9ngon
+        * Discord: https://discord.gg/Rw8Xm8udeE
+        * Youtube: https://www.youtube.com/channel/UC_mlcORdGMGhWHDouUY8ZHg
