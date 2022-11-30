@@ -13,7 +13,7 @@
         * Discord: https://discord.gg/Rw8Xm8udeE
         * Youtube: https://www.youtube.com/channel/UC_mlcORdGMGhWHDouUY8ZHg
 <li>
-<p dir="auto"><a href="https://discord.com/invite/Sme64hw5Fe" >DiscordServer</a></p>
+<p ><a href="https://discord.com/invite/Sme64hw5Fe" >DiscordServer</a></p>
 <li>
-<p dir="auto"><a href="https://streamable.com/0icpwt" >TestOrbwalker (Paid)</a></p>
+<p ><a href="https://streamable.com/0icpwt" >TestOrbwalker (Paid)</a></p>
 </li>
