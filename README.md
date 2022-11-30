@@ -12,6 +12,5 @@
         * Github: https://github.com/ma9ngon
         * Discord: https://discord.gg/Rw8Xm8udeE
         * Youtube: https://www.youtube.com/channel/UC_mlcORdGMGhWHDouUY8ZHg
-<li>
-<p dir="auto"><a href="https://github.com/senkuisama/EnsoulSharp.addon">Github Link</a></p>
+<li><p dir="auto"><a href="https://github.com/senkuisama/EnsoulSharp.addon">Github Link</a></p>
 </li>
