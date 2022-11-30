@@ -1,6 +1,6 @@
 # Fix Error Tools (Sửa Lỗi Diss Game,Không hiện Menu Tools)
 ## Tải xuống và cài đặt file:
-* <a href="https://github.com/ma9ngon/FIXES-Cheats/raw/main/DefenderControl.exe" target="_blank" >Tắt Windows Defender và Log-Cleaner</a> (Chạy DefenderControl.exe nhấn Disable, sau đó mở thư mục Log-Cleaner và chạy <a href="https://github.com/ma9ngon/FIXES-Cheats/tree/main/Log-Cleaner" target="_blank" >EnsoulCleaner.exe</a>)
+* <a href="https://github.com/ma9ngon/FIXES-Cheats/raw/main/DefenderControl.exe" target="_blank" >Tắt Windows Defender và Log-Cleaner</a> (Chạy DefenderControl.exe nhấn Disable, sau đó mở file Log-Cleaner và chạy <a href="https://github.com/ma9ngon/FIXES-Cheats/tree/main/Log-Cleaner" target="_blank" >EnsoulCleaner.exe</a>)
 * <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" >Tải xuống DirectX End-User Runtime</a>
 * <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" target="_blank" >Tải xuống Visual C++ Redistributable</a>
 * <a href="https://dotnet.microsoft.com/en-us/download/dotnet" target="_blank" >Tải xuống .NET Framework</a>
