@@ -15,5 +15,5 @@
 <li>
 <p dir="auto"><a href="https://discord.com/invite/Sme64hw5Fe" rel="nofollow">DiscordServer</a></p>
 <li>
-<p dir="auto"><a href="https://streamable.com/0icpwt" rel="nofollow">TestOrbwalker (Paid)</a></p>
+<p dir="auto"><a href="https://streamable.com/0icpwt" >TestOrbwalker (Paid)</a></p>
 </li>
