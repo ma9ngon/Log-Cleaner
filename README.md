@@ -12,7 +12,3 @@
         * Github: https://github.com/ma9ngon
         * Discord: https://discord.gg/Rw8Xm8udeE
         * Youtube: https://www.youtube.com/channel/UC_mlcORdGMGhWHDouUY8ZHg
-<li><p ><a href="https://discord.com/invite/Sme64hw5Fe" >DiscordServer</a></p>
-<li>
-<p ><a href="https://streamable.com/0icpwt" >TestOrbwalker (Paid)</a></p>
-</li>
