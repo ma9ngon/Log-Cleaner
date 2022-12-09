@@ -1,15 +1,16 @@
-# Fix Error Tools (Sửa Lỗi Diss Game,Không hiện Menu Tools)
-## Tải xuống và cài đặt file:
-* <a href="https://github.com/ma9ngon/FIXES-Cheats/archive/refs/heads/main.zip" target="_blank" >Tắt Windows Defender và Log-Cleaner</a> (Chạy DefenderControl.exe chọn Disable, mở file Log-Cleaner và chạy <a href="https://github.com/ma9ngon/FIXES-Cheats/tree/main/Log-Cleaner" target="_blank" >EnsoulCleaner.exe</a>)
-* <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" >Tải xuống DirectX End-User Runtime</a>
-* <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" target="_blank" >Tải xuống Visual C++ Redistributable</a>
-* <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework" >Tải xuống .NET Framework</a>
-* <a href="https://www.wisecleaner.com/wise-registry-cleaner.html" target="_blank" >Wise Registry Cleaner</a>  
-##
-* <a href="https://xuanthulab.net" target="_blank" >Để chế độ cửa sổ Không Viền(trong game) Và chế độ DX9</a> để có trải nghiệm tốt nhất
-------------
+# Log-Cleaner
+Tools xóa dữ liệu Hack để đăng nhâp,tránh khóa tài khoản.
+
+![İmage](https://1.bp.blogspot.com/-PUOySAeeR_U/X_7JcEMenXI/AAAAAAAACMk/XSKBPo92Eacy_8ImTMXvBgj0AiaOXar-QCLcBGAsYHQ/s442/Ch%25C6%25B0a%2Bc%25C3%25B3%2Bt%25C3%25AAn.png)
+# B1: Mở ứng dụng > chọn đường dẫn đến thư mục Lưu Game LMHT
+* Sever Garena:
+D:\Garena\Games\32787\Game\League of Legends.exe
+* Sever Riot Games:
+C:\Riot Games\League of Legends\LeagueClient.exe
+## Lưu ý: đường dẫn vào thư mục game của bạn, có thể khác với Ví dụ trên,bạn cần tìm chính xác để xóa dữ liệu Hack
+# B2: Nhấn lần lượt 3 tùy chọn trên Menu Tools    
    * Additional info:
         * Official website: https://ma9ngon.blogspot.com/
         * Github: https://github.com/ma9ngon
-        * Discord: https://discord.gg/Rw8Xm8udeE
+        * Discord: https://discord.com/invite/wXTR6nytCx
         * Youtube: https://www.youtube.com/channel/UC_mlcORdGMGhWHDouUY8ZHg
