@@ -7,6 +7,7 @@ Tools xóa dữ liệu Hack để đăng nhâp,tránh khóa tài khoản.
 D:\Garena\Games\32787\Game\League of Legends.exe
 * Sever Riot Games:
 C:\Riot Games\League of Legends\LeagueClient.exe
+## Lưu ý: đường dẫn vào thư mục game của bạn, có thể khác với Ví dụ trên,bạn cần tìm chính xác để xóa dữ liệu Hack
 # B2: Nhấn lần lượt 3 tùy chọn trên Menu Tools    
    * Additional info:
         * Official website: https://ma9ngon.blogspot.com/
