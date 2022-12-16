@@ -9,8 +9,3 @@ D:\Garena\Games\32787\Game\League of Legends.exe
 C:\Riot Games\League of Legends\LeagueClient.exe
 ## Lưu ý: đường dẫn vào thư mục game của bạn, có thể khác với Ví dụ trên,bạn cần tìm chính xác để xóa dữ liệu Hack
 # B2: Nhấn lần lượt 3 tùy chọn trên Menu Tools    
-   * Additional info:
-        * Official website: https://ma9ngon.blogspot.com/
-        * Github: https://github.com/ma9ngon
-        * Discord: https://discord.com/invite/wXTR6nytCx
-        * Youtube: https://www.youtube.com/channel/UC_mlcORdGMGhWHDouUY8ZHg
