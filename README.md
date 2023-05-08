@@ -5,4 +5,4 @@ Tools xóa dữ liệu Hack để đăng nhâp,tránh khóa tài khoản.
 ## B1: Mở ứng dụng > chọn đường dẫn đến thư mục Lưu Game LMHT
 C:\Riot Games\League of Legends\LeagueClient.exe
 * Lưu ý: đường dẫn vào thư mục game của bạn, có thể khác với Ví dụ trên,bạn cần tìm chính xác để xóa dữ liệu Hack
-# B2: Nhấn lần lượt 3 tùy chọn trên Menu Tools    
+## B2: Nhấn lần lượt 3 tùy chọn trên Menu Tools    
